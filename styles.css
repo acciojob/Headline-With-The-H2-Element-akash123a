@@ -12,3 +12,13 @@
 h1{
 	color: red;
 }
+      /* CSS for styling the h2 element */
+        h2 {
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            color: #333;
+            text-align: center;
+            margin-top: 50px;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
